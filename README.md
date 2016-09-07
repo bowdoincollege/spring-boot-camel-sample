@@ -13,4 +13,6 @@ Requires Java 8.
 ###Using Eclipse:
 1. Right click edu.bowdoin.spring.boot.sample.SampleApplication.java
 2. Select Run as -> Java application
-3. In any web browser, go to localhost:8080/hawtio/index.html and select the Camel tab. You should see your Camel Route running.
+
+###Hawtio
+1. Once the application has started up successfully, in any web browser, go to localhost:8080/hawtio/index.html and select the Camel tab. You should see your Camel Route running.
