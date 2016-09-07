@@ -1,6 +1,6 @@
 #Spring Boot Camel Sample Application
 
-The is a sample Spring Boot application that includes an Apache Camel (http://camel.apache.org/) route and Hawtio (http://hawt.io/).
+This a sample Spring Boot application that includes an Apache Camel (http://camel.apache.org/) route and Hawtio (http://hawt.io/).
 
 ##Basic How-to
 Requires Java 8.
