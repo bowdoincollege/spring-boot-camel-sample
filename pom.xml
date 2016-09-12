@@ -47,8 +47,6 @@
 			<artifactId>jolokia-core</artifactId>
 		</dependency>
 	</dependencies>
-<<<<<<< HEAD
-
 	<build>
 		<plugins>
 			<plugin>
@@ -57,15 +55,4 @@
 			</plugin>
 		</plugins>
 	</build>
-=======
-	
-	<build>
-    <plugins>
-        <plugin>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-maven-plugin</artifactId>
-        </plugin>
-    </plugins>
-</build>
->>>>>>> b74984720650a7d9e0ed78adf6355f070749bff9
 </project>
