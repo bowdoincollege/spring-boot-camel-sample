@@ -15,7 +15,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<camel.version>2.17.3</camel.version>
-		<hawtio.version>1.4.64</hawtio.version>
+		<hawtio.version>2.5.0</hawtio.version>
 	</properties>
 
 	<dependencies>
